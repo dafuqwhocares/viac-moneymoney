@@ -1,6 +1,6 @@
 # VIAC Extension for MoneyMoney
 
-Diese Web Banking Extension ermöglicht den Zugriff auf Portfolios bei VIAC in MoneyMoney (CH).
+Diese Web Banking Extension ermöglicht den Zugriff auf das Säule 3a-Konto von VIAC in MoneyMoney (CH) inklusive der dortigen Portfolios und liquiden Cash-Werte.
 
 ## Funktionen
 
